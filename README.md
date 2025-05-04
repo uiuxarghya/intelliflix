@@ -96,7 +96,7 @@ _Note: The app will automatically download embeddings and FAISS index from Huggi
 
 ## ✅ Roadmap
 
-- [ ] 🎥 Trailer/poster preview via TMDB API
+- [x] 🎥 Trailer/poster preview via TMDB API
 - [ ] 🗂️ Genre or actor-based filtering
 - [ ] 💬 Natural language query support (e.g., "movies like Inception but romantic")
 - [ ] 🔍 Search by title, genre, or actor
